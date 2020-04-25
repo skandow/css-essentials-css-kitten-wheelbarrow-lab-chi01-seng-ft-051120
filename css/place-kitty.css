@@ -39,7 +39,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-a[id="Kitty 5"] {
+a[alt="kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
